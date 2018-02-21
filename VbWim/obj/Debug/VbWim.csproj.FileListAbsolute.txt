@@ -1,0 +1,7 @@
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\bin\Debug\Resources\Terrain.txt
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\bin\Debug\VbWim.exe.config
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\bin\Debug\VbWim.exe
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\bin\Debug\VbWim.pdb
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\obj\Debug\VbWim.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\obj\Debug\VbWim.exe
+C:\Users\dwigh\Desktop\NoClueWhatIAm-master-9ca58afe713cb891a9f46c8611b28d971960bed9\VbWim\VbWim\obj\Debug\VbWim.pdb
